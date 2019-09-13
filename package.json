@@ -1,0 +1,19 @@
+{
+  "name": "app-tulip",
+  "version": "1.0.0",
+  "description": "Stocks, finance and market manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "prove"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobkob/Tulip.git"
+  },
+  "author": "Monsenhor",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kobkob/Tulip/issues"
+  },
+  "homepage": "https://github.com/kobkob/Tulip#readme"
+}
